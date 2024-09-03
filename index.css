@@ -1,0 +1,20 @@
+body{
+text-align: center;
+color: white;
+background-color: #282A35;
+height: 70vh;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+
+h1{
+font-size: 300%;
+border-style:solid;
+border-color: red;
+border-right: blue;
+border-left: blue;
+border-top: blue;
+}
+
