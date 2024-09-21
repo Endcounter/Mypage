@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding:0;
+}
+#one {
+   text-align: center;
+   border: solid;
+   border-color: blue;
+   padding: 20px 10px  ;
+   margin-bottom: 20px;
+}
+.center {
+    text-align: center;
+}
+.link-as-button{
+   appearance: button; 
+   padding: 5px 10px;
+   background-color: rgb(149, 167, 167);
+   border: none;
+   color: white;
+   text-decoration: none ;
+}
+#zer{
+    text-align: center;
+}
+#zor {
+    text-align: center;
+    margin-top: 10px;
+}
